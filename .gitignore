@@ -1,0 +1,11 @@
+# Chaves de API e arquivos de ambiente
+.env
+*.env
+
+# Cache e arquivos temporários do Jupyter e Python
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Configurações do Colab
+.config/
